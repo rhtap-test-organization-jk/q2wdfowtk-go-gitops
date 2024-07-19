@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: q2wdfowtk-go-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/q2wdfowtk-go
